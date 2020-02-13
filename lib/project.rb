@@ -13,7 +13,5 @@ class Project
     backer.backed_project(self) unless backer.backed_projects.include?(self)
   end
   
-  def 
-  
   
 end
